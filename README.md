@@ -1,47 +1,34 @@
 <div align="center">
 
-# Raphael Silva
+Technology • Consciousness • Living Systems
 
-**Technology • Consciousness • Living Systems**
-
-Exploring the intersection between systems, sovereignty and the intelligence of life.
+![Systems](https://img.shields.io/badge/Systems-Thinking-black)
+![Digital Sovereignty](https://img.shields.io/badge/Digital-Sovereignty-darkgreen)
+![Existential Sovereignty](https://img.shields.io/badge/Existential-Sovereignty-forestgreen)
+![Living Systems](https://img.shields.io/badge/Living-Systems-green)
 
 </div>
 
 ---
 
-## Focus
+Exploring the intersection between **technology, sovereignty and living systems**.
 
-⚙️ **Systems & Technology**  
-Software architecture, systems thinking and digital infrastructure.
+### Focus
 
-🧭 **Digital Sovereignty**  
-Open systems, decentralization and resilient digital ecosystems.
-
-🌿 **Living Systems**  
-Dialogue between technology, consciousness and nature.
+⚙️ Systems architecture & digital infrastructure  
+🧭 Digital sovereignty & resilient systems  
+🌿 Consciousness, nature & living systems  
 
 ---
 
-## Work
+### Work
 
-🛠 **Digital Solutions Consulting**  
-Solution architecture • systems design • digital strategy
-
-🧠 **Individual Conversations**  
-Spaces for reflection on mind, life transitions and inner processes.
+🛠 Digital solutions consulting  
+🧠 Individual conversations on mind, life and integration  
 
 ---
 
-## Question
-
-> How can technology and living systems evolve in harmony?
-
----
-
-## Connect
+### Connect
 
 Website *(coming soon)*  
-Medium  
-LinkedIn  
-Instagram
+Medium • LinkedIn • Instagram
