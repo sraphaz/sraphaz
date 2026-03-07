@@ -11,13 +11,13 @@ Technology • Consciousness • Living Systems
 
 ---
 
-Exploring the intersection between **technology, sovereignty and living systems**.
+Exploring the intersection between **technology, consciousness and existencial sovereignty**.
 
 ### Focus
 
-⚙️ Systems architecture & digital infrastructure  
+⚙️ Solutions architecture 
 🧭 Digital sovereignty & resilient systems  
-🌿 Consciousness, nature & living systems  
+🌿 Consciousness, nature & life  
 
 ---
 
@@ -30,5 +30,4 @@ Exploring the intersection between **technology, sovereignty and living systems*
 
 ### Connect
 
-Website *(coming soon)*  
 Medium • LinkedIn • Instagram
