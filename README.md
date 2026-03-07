@@ -15,7 +15,7 @@ Exploring the intersection between **technology, consciousness and existencial s
 
 ### Focus
 
-⚙️ Solutions architecture & software engeneering 
+⚙️ Solutions architecture & software engeneering             
 🧭 Digital sovereignty & resilient systems  
 🌿 Consciousness, nature & life integration
 
