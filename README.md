@@ -4,8 +4,8 @@
 
 ---
 
-<table align="center"><tr><td bgcolor="#21262d" align="center" style="padding: 12px 28px; border-radius: 14px; color: #f0f6fc; font-weight: bold;">
-<strong style="color: #e0b848;">Rapha</strong> · Technology · Consciousness · Living Systems
+<table align="center"><tr><td bgcolor="#21262d" align="center" style="padding: 12px 28px; border-radius: 14px; color: #b1bac4; font-weight: bold;">
+<strong style="color: #d4af37;">Rapha</strong> · Technology · Consciousness · Living Systems
 </td></tr></table>
 
 ![Solutions Archtect](https://img.shields.io/badge/Solutions_Archtect-0ea5e9?style=flat-square)
@@ -16,6 +16,8 @@
 </div>
 
 ---
+
+<div style="color: #b1bac4;">
 
 ### 💡 About Me
 
@@ -81,8 +83,10 @@
 
 ---
 
-<div align="center">
+<div align="center" style="color: #8b949e;">
 
 **© Sraphaz · Technology, Consciousness & Living Systems**
+
+</div>
 
 </div>
