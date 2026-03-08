@@ -30,22 +30,31 @@
   <text x="575" y="94" text-anchor="middle" fill="#8B9CB0" font-size="17" font-family="Inter, system-ui, sans-serif" font-weight="400" letter-spacing="0.02em">Designing resilient digital systems aligned with life</text>
   <!-- Divider -->
   <line x1="100" y1="132" x2="1050" y2="132" stroke="url(#line-b)" stroke-width="1"/>
-  <!-- Section: Architecture -->
-  <text x="288" y="178" text-anchor="middle" fill="#F0F4F8" font-size="20" font-family="Inter, system-ui, sans-serif" font-weight="600" letter-spacing="0.02em">Architecture</text>
-  <text x="288" y="208" text-anchor="middle" fill="#8B9CB0" font-size="14" font-family="Inter, system-ui, sans-serif" font-weight="400">
-    <tspan x="288" dy="0">Systems design for meaningful</tspan>
-    <tspan x="288" dy="1.2em">digital environments</tspan>
-  </text>
-  <!-- Section: Intelligence -->
-  <text x="575" y="178" text-anchor="middle" fill="#F0F4F8" font-size="20" font-family="Inter, system-ui, sans-serif" font-weight="600" letter-spacing="0.02em">Intelligence</text>
-  <text x="575" y="208" text-anchor="middle" fill="#8B9CB0" font-size="14" font-family="Inter, system-ui, sans-serif" font-weight="400">
-    <tspan x="575" dy="0">AI, consciousness, software</tspan>
-    <tspan x="575" dy="1.2em">engineering and adaptive systems</tspan>
-  </text>
-  <!-- Section: Territory -->
-  <text x="863" y="178" text-anchor="middle" fill="#F0F4F8" font-size="20" font-family="Inter, system-ui, sans-serif" font-weight="600" letter-spacing="0.02em">Territory</text>
-  <text x="863" y="208" text-anchor="middle" fill="#8B9CB0" font-size="14" font-family="Inter, system-ui, sans-serif" font-weight="400">
-    <tspan x="863" dy="0"><tspan fill="#4ADE80">Arah</tspan><tspan fill="#8B9CB0"> — territory-first digital</tspan></tspan>
-    <tspan x="863" dy="1.2em" fill="#8B9CB0">platform for regenerative communities</tspan>
-  </text>
+  <!-- Section: Architecture (fade-in) -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0.25s" fill="freeze"/>
+    <text x="288" y="178" text-anchor="middle" fill="#F0F4F8" font-size="20" font-family="Inter, system-ui, sans-serif" font-weight="600" letter-spacing="0.02em">Architecture</text>
+    <text x="288" y="208" text-anchor="middle" fill="#8B9CB0" font-size="14" font-family="Inter, system-ui, sans-serif" font-weight="400">
+      <tspan x="288" dy="0">Systems design for meaningful</tspan>
+      <tspan x="288" dy="1.2em">digital environments</tspan>
+    </text>
+  </g>
+  <!-- Section: Intelligence (fade-in) -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0.5s" fill="freeze"/>
+    <text x="575" y="178" text-anchor="middle" fill="#F0F4F8" font-size="20" font-family="Inter, system-ui, sans-serif" font-weight="600" letter-spacing="0.02em">Intelligence</text>
+    <text x="575" y="208" text-anchor="middle" fill="#8B9CB0" font-size="14" font-family="Inter, system-ui, sans-serif" font-weight="400">
+      <tspan x="575" dy="0">AI, consciousness, software</tspan>
+      <tspan x="575" dy="1.2em">engineering and adaptive systems</tspan>
+    </text>
+  </g>
+  <!-- Section: Territory (fade-in) -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0.75s" fill="freeze"/>
+    <text x="863" y="178" text-anchor="middle" fill="#F0F4F8" font-size="20" font-family="Inter, system-ui, sans-serif" font-weight="600" letter-spacing="0.02em">Territory</text>
+    <text x="863" y="208" text-anchor="middle" fill="#8B9CB0" font-size="14" font-family="Inter, system-ui, sans-serif" font-weight="400">
+      <tspan x="863" dy="0"><tspan fill="#4ADE80">Arah</tspan><tspan fill="#8B9CB0"> — territory-first digital</tspan></tspan>
+      <tspan x="863" dy="1.2em" fill="#8B9CB0">platform for regenerative communities</tspan>
+    </text>
+  </g>
 </svg>
