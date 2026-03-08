@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hanuman blessing](https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/hanuman-verse.svg)
+![Hanuman blessing](https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/hanuman-verse.svg?v=2)
 
 ---
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-![Profile — About, Tech &amp; Practice, Focus Areas](https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/profile-content.svg)
+![Profile — About, Tech &amp; Practice, Focus Areas](https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/profile-content.svg?v=2)
 
 </div>
 
