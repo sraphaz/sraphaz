@@ -7,14 +7,27 @@
     </pattern>
   </defs>
   <rect width="720" height="240" fill="#0d1117"/>
-  <!-- Golden frame: symmetric outer and inner border -->
-  <rect x="0" y="0" width="720" height="240" fill="none" stroke="#d4af37" stroke-width="2" rx="2" opacity="0.95"/>
-  <rect x="8" y="8" width="704" height="224" fill="none" stroke="#b8860b" stroke-width="0.8" rx="1" opacity="0.8"/>
-  <!-- Patterned border strips (Indian geometric) - 8px symmetric margin -->
-  <rect x="0" y="0" width="720" height="8" fill="url(#gold-pattern)"/>
-  <rect x="0" y="232" width="720" height="8" fill="url(#gold-pattern)"/>
-  <rect x="0" y="8" width="8" height="224" fill="url(#gold-pattern)"/>
-  <rect x="712" y="8" width="8" height="224" fill="url(#gold-pattern)"/>
+  <!-- Golden frame: outer border draws smoothly (perimeter 1920) -->
+  <rect x="0" y="0" width="720" height="240" fill="none" stroke="#d4af37" stroke-width="2" stroke-dasharray="1920" stroke-dashoffset="1920" rx="2" opacity="0.95">
+    <animate attributeName="stroke-dashoffset" from="1920" to="0" dur="1s" begin="0s" fill="freeze"/>
+  </rect>
+  <!-- Inner border draws after outer (perimeter 1856) -->
+  <rect x="8" y="8" width="704" height="224" fill="none" stroke="#b8860b" stroke-width="0.8" stroke-dasharray="1856" stroke-dashoffset="1856" rx="1" opacity="0.8">
+    <animate attributeName="stroke-dashoffset" from="1856" to="0" dur="0.85s" begin="0.25s" fill="freeze"/>
+  </rect>
+  <!-- Patterned strips draw in smoothly -->
+  <rect x="0" y="0" width="720" height="0" fill="url(#gold-pattern)">
+    <animate attributeName="height" from="0" to="8" dur="0.4s" begin="0.5s" fill="freeze"/>
+  </rect>
+  <rect x="0" y="232" width="720" height="0" fill="url(#gold-pattern)">
+    <animate attributeName="height" from="0" to="8" dur="0.4s" begin="0.6s" fill="freeze"/>
+  </rect>
+  <rect x="0" y="8" width="0" height="224" fill="url(#gold-pattern)">
+    <animate attributeName="width" from="0" to="8" dur="0.4s" begin="0.55s" fill="freeze"/>
+  </rect>
+  <rect x="712" y="8" width="0" height="224" fill="url(#gold-pattern)">
+    <animate attributeName="width" from="0" to="8" dur="0.4s" begin="0.65s" fill="freeze"/>
+  </rect>
   <!-- Verse line 1 (fade-in) - golden shadow only on Sanskrit -->
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.2s" fill="freeze"/>

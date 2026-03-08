@@ -1,6 +1,8 @@
 <div align="center">
 
-![Hanuman blessing](https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/hanuman-verse.svg?v=2)
+![Hanuman blessing](https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/hanuman-verse.svg?v=3)
+
+[![Spotify — Hanuman Chalisa (Víctor Sakshin)](https://img.shields.io/badge/Spotify-Hanuman_Chalisa-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/track/3bzvm9mTDrTNBtqtVn6Uaq?si=52942938add84fbb)
 
 ---
 
