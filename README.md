@@ -6,7 +6,7 @@
 
 **Rapha** · Technology • Consciousness • Living Systems
 
-![Systems Thinking](https://img.shields.io/badge/Systems_Thinking-0d1117?style=flat-square)
+![Solutions Archtect](https://img.shields.io/badge/Systems_Thinking-0d1117?style=flat-square)
 ![Digital & Existential Sovereignty](https://img.shields.io/badge/Digital_%26_Existential_Sovereignty-6e5494?style=flat-square)
 ![Living Systems](https://img.shields.io/badge/Living_Systems-238636?style=flat-square)
 
