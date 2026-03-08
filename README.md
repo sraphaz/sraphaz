@@ -1,19 +1,6 @@
 <div align="center">
 
-<p align="center" style="font-size: 1.15em;">
-  <span style="color: #14532d;"><b>बुद्धिर्बलं यशो धैर्यं निर्भयत्वमरोगता ।<br>
-  अजाड्यं वाक्पटुत्वं च हनुमत्स्मरणाद्भवेत् ॥</b></span>
-</p>
-
-<p align="center" style="font-size: 1.12em;">
-  <span style="color: #166534;"><i>buddhir balaṃ yaśo dhairyaṃ nirbhayatvam arogatā |<br>
-  ajāḍyaṃ vākpaṭutvaṃ ca hanumat-smaraṇād bhavet ||</i></span>
-</p>
-
-<p align="center" style="font-size: 1.08em;">
-  <span style="color: #15803d;">Wisdom • Strength • Recognition • Courage • Fearlessness • Health • Freedom from Laziness • Eloquence</span><br>
-  <sub style="color: #16a34a;">— Blessings from remembering Lord Hanuman</sub>
-</p>
+![Hanuman blessing — Wisdom, Strength, Recognition, Courage, Fearlessness, Health, Freedom from Laziness, Eloquence](./profile/hanuman-verse.svg)
 
 ---
 
