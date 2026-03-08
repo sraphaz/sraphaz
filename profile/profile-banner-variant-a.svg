@@ -1,0 +1,31 @@
+<svg width="1150" height="300" viewBox="0 0 1150 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Profile banner  systems, territory, sovereignty">
+  <defs>
+    <linearGradient id="bg-a" x1="0" y1="0" x2="1150" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081018"/>
+      <stop offset="1" stop-color="#0F1724"/>
+    </linearGradient>
+    <linearGradient id="line-a" x1="180" y1="0" x2="970" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#94A3B8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#94A3B8" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#94A3B8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1150" height="300" rx="12" fill="url(#bg-a)"/>
+  <!-- Top axis -->
+  <text x="575" y="42" text-anchor="middle" fill="#E6EDF3" font-size="24" font-family="Inter, system-ui, -apple-system, sans-serif" font-weight="600" letter-spacing="0.02em">Systems Architecture • AI • Digital Sovereignty</text>
+  <!-- Conceptual line -->
+  <text x="575" y="74" text-anchor="middle" fill="#94A3B8" font-size="16" font-family="Inter, system-ui, sans-serif" font-weight="400">Designing resilient digital systems aligned with life</text>
+  <!-- Divider -->
+  <line x1="180" y1="108" x2="970" y2="108" stroke="url(#line-a)" stroke-width="1"/>
+  <!-- Section: Architecture -->
+  <text x="288" y="148" text-anchor="middle" fill="#E6EDF3" font-size="17" font-family="Inter, system-ui, sans-serif" font-weight="600">Architecture</text>
+  <text x="288" y="172" text-anchor="middle" fill="#94A3B8" font-size="13" font-family="Inter, system-ui, sans-serif" font-weight="400">Systems design for meaningful digital environments</text>
+  <!-- Section: Intelligence -->
+  <text x="575" y="148" text-anchor="middle" fill="#E6EDF3" font-size="17" font-family="Inter, system-ui, sans-serif" font-weight="600">Intelligence</text>
+  <text x="575" y="172" text-anchor="middle" fill="#94A3B8" font-size="13" font-family="Inter, system-ui, sans-serif" font-weight="400">AI, software engineering and adaptive systems</text>
+  <!-- Section: Territory (Arah in accent) -->
+  <text x="863" y="148" text-anchor="middle" fill="#E6EDF3" font-size="17" font-family="Inter, system-ui, sans-serif" font-weight="600">Territory</text>
+  <text x="863" y="172" text-anchor="middle" fill="#94A3B8" font-size="13" font-family="Inter, system-ui, sans-serif" font-weight="400">
+    <tspan fill="#4ADE80">Arah</tspan><tspan fill="#94A3B8">  territory-first digital platform for regenerative communities</tspan>
+  </text>
+</svg>

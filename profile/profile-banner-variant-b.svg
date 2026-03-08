@@ -1,11 +1,11 @@
 <svg width="1150" height="320" viewBox="0 0 1150 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Profile banner — systems, territory, sovereignty">
   <defs>
-    <linearGradient id="banner-bg" x1="0" y1="0" x2="1150" y2="320" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg-b" x1="0" y1="0" x2="1150" y2="320" gradientUnits="userSpaceOnUse">
       <stop stop-color="#060C12"/>
       <stop offset="0.4" stop-color="#081018"/>
       <stop offset="1" stop-color="#0D1319"/>
     </linearGradient>
-    <linearGradient id="banner-line" x1="160" y1="0" x2="990" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="line-b" x1="160" y1="0" x2="990" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#94A3B8" stop-opacity="0"/>
       <stop offset="0.45" stop-color="#C2A85A" stop-opacity="0.12"/>
       <stop offset="0.5" stop-color="#94A3B8" stop-opacity="0.4"/>
@@ -13,8 +13,8 @@
       <stop offset="1" stop-color="#94A3B8" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect width="1150" height="320" rx="14" fill="url(#banner-bg)"/>
-  <!-- Subtle topographic / contour layer (premium: softer, lower opacity) -->
+  <rect width="1150" height="320" rx="14" fill="url(#bg-b)"/>
+  <!-- Subtle topographic / contour layer (premium) -->
   <g stroke="#94A3B8" stroke-width="0.5" fill="none" opacity="0.05">
     <path d="M 0 72 Q 288 52 575 68 T 1150 62"/>
     <path d="M 0 112 Q 288 92 575 108 T 1150 102"/>
@@ -23,7 +23,7 @@
     <path d="M 0 232 Q 288 212 575 228 T 1150 222"/>
     <path d="M 0 272 Q 288 252 575 268 T 1150 262"/>
   </g>
-  <!-- Faint vertical flow (territory / systems) -->
+  <!-- Faint vertical flow -->
   <g stroke="#94A3B8" stroke-width="0.35" fill="none" opacity="0.03">
     <path d="M 288 0 C 288 90 282 160 272 320"/>
     <path d="M 575 0 C 575 90 568 160 575 320"/>
@@ -34,14 +34,14 @@
   <!-- Conceptual line -->
   <text x="575" y="86" text-anchor="middle" fill="#8B9CB0" font-size="15" font-family="Inter, system-ui, sans-serif" font-weight="400" letter-spacing="0.02em">Designing resilient digital systems aligned with life</text>
   <!-- Divider -->
-  <line x1="160" y1="118" x2="990" y2="118" stroke="url(#banner-line)" stroke-width="1"/>
+  <line x1="160" y1="118" x2="990" y2="118" stroke="url(#line-b)" stroke-width="1"/>
   <!-- Section: Architecture -->
   <text x="288" y="162" text-anchor="middle" fill="#F0F4F8" font-size="18" font-family="Inter, system-ui, sans-serif" font-weight="600" letter-spacing="0.02em">Architecture</text>
   <text x="288" y="188" text-anchor="middle" fill="#8B9CB0" font-size="13" font-family="Inter, system-ui, sans-serif" font-weight="400">Systems design for meaningful digital environments</text>
   <!-- Section: Intelligence -->
   <text x="575" y="162" text-anchor="middle" fill="#F0F4F8" font-size="18" font-family="Inter, system-ui, sans-serif" font-weight="600" letter-spacing="0.02em">Intelligence</text>
   <text x="575" y="188" text-anchor="middle" fill="#8B9CB0" font-size="13" font-family="Inter, system-ui, sans-serif" font-weight="400">AI, software engineering and adaptive systems</text>
-  <!-- Section: Territory (Arah in accent) -->
+  <!-- Section: Territory -->
   <text x="863" y="162" text-anchor="middle" fill="#F0F4F8" font-size="18" font-family="Inter, system-ui, sans-serif" font-weight="600" letter-spacing="0.02em">Territory</text>
   <text x="863" y="188" text-anchor="middle" fill="#8B9CB0" font-size="13" font-family="Inter, system-ui, sans-serif" font-weight="400">
     <tspan fill="#4ADE80">Arah</tspan><tspan fill="#8B9CB0"> — territory-first digital platform for regenerative communities</tspan>

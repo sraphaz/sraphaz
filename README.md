@@ -4,7 +4,7 @@
 
 ---
 
-![Profile banner — Raphael Silva, Arah](https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/profile-banner.svg)
+![Profile banner — systems, territory, sovereignty](https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/profile-banner.svg)
 
 ![Solutions Archtect](https://img.shields.io/badge/Solutions_Archtect-0ea5e9?style=flat-square)
 &nbsp;
