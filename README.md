@@ -4,11 +4,9 @@
 
 ---
 
-<p align="center">
-  <span style="display: inline-block; background-color: #21262d; color: #f0f6fc; font-size: 1.12em; font-weight: 600; letter-spacing: 0.04em; padding: 12px 28px; border-radius: 14px; border: 1px solid #3d444d;">
-    <span style="color: #e0b848;">Rapha</span> · Technology · Consciousness · Living Systems
-  </span>
-</p>
+<table align="center"><tr><td bgcolor="#21262d" align="center" style="padding: 12px 28px; border-radius: 14px; color: #f0f6fc; font-weight: bold;">
+<strong style="color: #e0b848;">Rapha</strong> · Technology · Consciousness · Living Systems
+</td></tr></table>
 
 ![Solutions Archtect](https://img.shields.io/badge/Solutions_Archtect-0ea5e9?style=flat-square)
 ![Digital & Existential Sovereignty](https://img.shields.io/badge/Digital_%26_Existential_Sovereignty-6e5494?style=flat-square)
