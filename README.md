@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Rapha
+# 👋 Hi, call me Rapha
 
 **Technology • Consciousness • Living Systems**
 
