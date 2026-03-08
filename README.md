@@ -9,6 +9,7 @@
 ![Solutions Archtect](https://img.shields.io/badge/Solutions_Archtect-0d1117?style=flat-square)
 ![Digital & Existential Sovereignty](https://img.shields.io/badge/Digital_%26_Existential_Sovereignty-6e5494?style=flat-square)
 ![Regenarating Systems](https://img.shields.io/badge/Regenarating_Systems-238636?style=flat-square)
+![Divine Presence](https://img.shields.io/badge/Divine_Presence-d4af37?style=flat-square)
 
 </div>
 
