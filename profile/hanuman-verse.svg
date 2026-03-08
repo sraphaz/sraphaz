@@ -1,13 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240" style="background-color:#0d1117">
   <rect width="720" height="240" fill="#0d1117"/>
-  <!-- Verse line 1 (fade-in) -->
+  <!-- Verse line 1 (fade-in) - golden shadow only on Sanskrit -->
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.2s" fill="freeze"/>
+    <g transform="translate(0.8, 0.8)">
+      <text x="360" y="50" text-anchor="middle" font-family="serif" font-size="32" font-weight="bold" fill="#d4af37" stroke="#b8860b" stroke-width="0.6" paint-order="stroke fill" opacity="0.85" style="letter-spacing: 1.5; word-spacing: 6">&#2348;&#2369;&#2342;&#2381;&#2341;&#2367;&#2352;&#2381;&#2348;&#2354;&#2306; &#2351;&#2358;&#2379; &#2341;&#2376;&#2352;&#2381;&#2351;&#2306; &#2344;&#2367;&#2352;&#2381;&#2342;&#2361;&#2351;&#2340;&#2381;&#2357;&#2350;&#2352;&#2379;&#2327;&#2340;&#2366; &#2404;</text>
+    </g>
     <text x="360" y="50" text-anchor="middle" font-family="serif" font-size="32" font-weight="bold" fill="#14532d" stroke="#d4af37" stroke-width="0.5" paint-order="stroke fill" style="letter-spacing: 1.5; word-spacing: 6">&#2348;&#2369;&#2342;&#2381;&#2341;&#2367;&#2352;&#2381;&#2348;&#2354;&#2306; &#2351;&#2358;&#2379; &#2341;&#2376;&#2352;&#2381;&#2351;&#2306; &#2344;&#2367;&#2352;&#2381;&#2342;&#2361;&#2351;&#2340;&#2381;&#2357;&#2350;&#2352;&#2379;&#2327;&#2340;&#2366; &#2404;</text>
   </g>
-  <!-- Verse line 2 (fade-in) -->
+  <!-- Verse line 2 (fade-in) - golden shadow only on Sanskrit -->
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.5s" fill="freeze"/>
+    <g transform="translate(0.8, 0.8)">
+      <text x="360" y="92" text-anchor="middle" font-family="serif" font-size="32" font-weight="bold" fill="#d4af37" stroke="#b8860b" stroke-width="0.6" paint-order="stroke fill" opacity="0.85" style="letter-spacing: 1.5; word-spacing: 6">&#2310;&#2332;&#2366;&#2335;&#2381;&#2351;&#2306; &#2357;&#2366;&#2325;&#2381;&#2346;&#2337;&#2369;&#2340;&#2381;&#2357;&#2306; &#2330; &#2361;&#2344;&#2369;&#2350;&#2340;&#2381;&#2360;&#2381;&#2350;&#2352;&#2339;&#2366;&#2342;&#2381;&#2342;&#2357;&#2375;&#2340;&#2381; &#2405;</text>
+    </g>
     <text x="360" y="92" text-anchor="middle" font-family="serif" font-size="32" font-weight="bold" fill="#14532d" stroke="#d4af37" stroke-width="0.5" paint-order="stroke fill" style="letter-spacing: 1.5; word-spacing: 6">&#2310;&#2332;&#2366;&#2335;&#2381;&#2351;&#2306; &#2357;&#2366;&#2325;&#2381;&#2346;&#2337;&#2369;&#2340;&#2381;&#2357;&#2306; &#2330; &#2361;&#2344;&#2369;&#2350;&#2340;&#2381;&#2360;&#2381;&#2350;&#2352;&#2339;&#2366;&#2342;&#2381;&#2342;&#2357;&#2375;&#2340;&#2381; &#2405;</text>
   </g>
   <!-- Transliteration (fade-in) -->
