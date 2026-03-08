@@ -12,7 +12,7 @@
   </defs>
   <rect width="1150" height="300" rx="12" fill="url(#bg-a)"/>
   <!-- Top axis -->
-  <text x="575" y="42" text-anchor="middle" fill="#E6EDF3" font-size="24" font-family="Inter, system-ui, -apple-system, sans-serif" font-weight="600" letter-spacing="0.02em">Systems Architecture • AI • Digital Sovereignty</text>
+  <text x="575" y="42" text-anchor="middle" fill="#E6EDF3" font-size="24" font-family="Inter, system-ui, -apple-system, sans-serif" font-weight="600" letter-spacing="0.02em">Solutions Architecture • AI • Digital Sovereignty</text>
   <!-- Conceptual line -->
   <text x="575" y="74" text-anchor="middle" fill="#94A3B8" font-size="16" font-family="Inter, system-ui, sans-serif" font-weight="400">Designing resilient digital systems aligned with life</text>
   <!-- Divider -->

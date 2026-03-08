@@ -30,7 +30,7 @@
     <path d="M 863 0 C 863 90 868 160 858 320"/>
   </g>
   <!-- Top axis -->
-  <text x="575" y="50" text-anchor="middle" fill="#F0F4F8" font-size="25" font-family="Inter, system-ui, -apple-system, sans-serif" font-weight="600" letter-spacing="0.04em">Systems Architecture • AI • Digital Sovereignty</text>
+  <text x="575" y="50" text-anchor="middle" fill="#F0F4F8" font-size="25" font-family="Inter, system-ui, -apple-system, sans-serif" font-weight="600" letter-spacing="0.04em">Solutions Architecture • AI • Digital Sovereignty</text>
   <!-- Conceptual line -->
   <text x="575" y="86" text-anchor="middle" fill="#8B9CB0" font-size="15" font-family="Inter, system-ui, sans-serif" font-weight="400" letter-spacing="0.02em">Designing resilient digital systems aligned with life</text>
   <!-- Divider -->
