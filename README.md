@@ -17,7 +17,7 @@
 
 ---
 
-<div style="color: #b1bac4;">
+<font color="#b1bac4">
 
 ### 💡 About Me
 
@@ -83,10 +83,10 @@
 
 ---
 
-<div align="center" style="color: #8b949e;">
+<div align="center">
 
-**© Sraphaz · Technology, Consciousness & Living Systems**
-
-</div>
+<font color="#8b949e">**© Sraphaz · Technology, Consciousness & Living Systems**</font>
 
 </div>
+
+</font>
