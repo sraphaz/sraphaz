@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hanuman blessing — Wisdom, Strength, Recognition, Courage, Fearlessness, Health, Freedom from Laziness, Eloquence](./profile/hanuman-verse.svg)
+![Hanuman blessing](https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/hanuman-verse.svg)
 
 ---
 
