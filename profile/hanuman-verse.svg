@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240" style="background-color:#0d1117">
+  <!-- v4: border draw animation + pattern strips grow -->
   <defs>
     <!-- Indian geometric pattern: repeating diamond (lozenge) -->
     <pattern id="gold-pattern" x="0" y="0" width="14" height="14" patternUnits="userSpaceOnUse">
