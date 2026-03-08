@@ -5,7 +5,7 @@
       <stop offset="0.4" stop-color="#081018"/>
       <stop offset="1" stop-color="#0D1319"/>
     </linearGradient>
-    <linearGradient id="line-b" x1="100" y1="0" x2="1050" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="line-b" x1="80" y1="0" x2="1070" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#94A3B8" stop-opacity="0"/>
       <stop offset="0.45" stop-color="#C2A85A" stop-opacity="0.12"/>
       <stop offset="0.5" stop-color="#94A3B8" stop-opacity="0.4"/>
@@ -21,40 +21,43 @@
     <path d="M 0 310 Q 288 290 575 306 T 1150 300"/>
   </g>
   <g stroke="#94A3B8" stroke-width="0.35" fill="none" opacity="0.03">
-    <path d="M 180 0 L 180 360"/>
-    <path d="M 970 0 L 970 360"/>
+    <path d="M 160 0 L 160 360"/>
+    <path d="M 990 0 L 990 360"/>
   </g>
   <!-- Top axis -->
   <text x="575" y="56" text-anchor="middle" fill="#F0F4F8" font-size="26" font-family="Inter, system-ui, -apple-system, sans-serif" font-weight="600" letter-spacing="0.03em">Solutions Architecture • AI • Consciousness • Digital Sovereignty</text>
   <!-- Conceptual line -->
   <text x="575" y="94" text-anchor="middle" fill="#8B9CB0" font-size="17" font-family="Inter, system-ui, sans-serif" font-weight="400" letter-spacing="0.02em">Designing resilient digital systems aligned with life</text>
   <!-- Divider -->
-  <line x1="100" y1="132" x2="1050" y2="132" stroke="url(#line-b)" stroke-width="1"/>
+  <line x1="80" y1="132" x2="1070" y2="132" stroke="url(#line-b)" stroke-width="1"/>
   <!-- Section: Architecture (fade-in) -->
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0.25s" fill="freeze"/>
-    <text x="288" y="178" text-anchor="middle" fill="#F0F4F8" font-size="20" font-family="Inter, system-ui, sans-serif" font-weight="600" letter-spacing="0.02em">Architecture</text>
-    <text x="288" y="208" text-anchor="middle" fill="#8B9CB0" font-size="14" font-family="Inter, system-ui, sans-serif" font-weight="400">
-      <tspan x="288" dy="0">Systems design for meaningful</tspan>
-      <tspan x="288" dy="1.2em">digital environments</tspan>
+    <text x="230" y="184" text-anchor="middle" fill="#F0F4F8" font-size="20" font-family="Inter, system-ui, sans-serif" font-weight="600" letter-spacing="0.02em">Architecture</text>
+    <text x="230" y="218" text-anchor="middle" fill="#8B9CB0" font-size="14" font-family="Inter, system-ui, sans-serif" font-weight="400">
+      <tspan x="230" dy="0">Systems design for meaningful</tspan>
+      <tspan x="230" dy="1.25em">digital environments</tspan>
     </text>
   </g>
   <!-- Section: Intelligence (fade-in) -->
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0.5s" fill="freeze"/>
-    <text x="575" y="178" text-anchor="middle" fill="#F0F4F8" font-size="20" font-family="Inter, system-ui, sans-serif" font-weight="600" letter-spacing="0.02em">Intelligence</text>
-    <text x="575" y="208" text-anchor="middle" fill="#8B9CB0" font-size="14" font-family="Inter, system-ui, sans-serif" font-weight="400">
+    <text x="575" y="184" text-anchor="middle" fill="#F0F4F8" font-size="20" font-family="Inter, system-ui, sans-serif" font-weight="600" letter-spacing="0.02em">Intelligence</text>
+    <text x="575" y="218" text-anchor="middle" fill="#8B9CB0" font-size="14" font-family="Inter, system-ui, sans-serif" font-weight="400">
       <tspan x="575" dy="0">AI, consciousness, software</tspan>
-      <tspan x="575" dy="1.2em">engineering and adaptive systems</tspan>
+      <tspan x="575" dy="1.25em">engineering and adaptive systems</tspan>
     </text>
   </g>
   <!-- Section: Territory (fade-in) -->
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0.75s" fill="freeze"/>
-    <text x="863" y="178" text-anchor="middle" fill="#F0F4F8" font-size="20" font-family="Inter, system-ui, sans-serif" font-weight="600" letter-spacing="0.02em">Territory</text>
-    <text x="863" y="208" text-anchor="middle" fill="#8B9CB0" font-size="14" font-family="Inter, system-ui, sans-serif" font-weight="400">
-      <tspan x="863" dy="0"><tspan fill="#4ADE80">Arah</tspan><tspan fill="#8B9CB0"> — territory-first digital</tspan></tspan>
-      <tspan x="863" dy="1.2em" fill="#8B9CB0">platform for regenerative communities</tspan>
+    <text x="920" y="184" text-anchor="middle" fill="#F0F4F8" font-size="20" font-family="Inter, system-ui, sans-serif" font-weight="600" letter-spacing="0.02em">Territory</text>
+    <text x="920" y="218" text-anchor="middle" fill="#8B9CB0" font-size="14" font-family="Inter, system-ui, sans-serif" font-weight="400">
+      <tspan x="920" dy="0"><tspan fill="#4ADE80">Arah</tspan><tspan fill="#8B9CB0"> — territory-first digital</tspan></tspan>
+      <tspan x="920" dy="1.25em" fill="#8B9CB0">platform for regenerative communities</tspan>
     </text>
   </g>
+  <!-- Bottom band -->
+  <line x1="80" y1="268" x2="1070" y2="268" stroke="url(#line-b)" stroke-width="0.8" opacity="0.6"/>
+  <text x="575" y="318" text-anchor="middle" fill="#8B9CB0" font-size="12" font-family="Inter, system-ui, sans-serif" font-weight="400" letter-spacing="0.08em" opacity="0.9">Technology · Consciousness · Living Systems</text>
 </svg>
