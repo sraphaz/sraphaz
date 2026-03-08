@@ -1,0 +1,46 @@
+# Gera os cards de GitHub Stats e Top Languages como SVG no repo
+# (evita falha do serviço público github-readme-stats.vercel.app)
+
+name: Update README stats cards
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # 12:00 UTC (9h BRT)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6e5494&icon_color=c9d1d9
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6e5494
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update README stats cards"
+            git push
+          fi
