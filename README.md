@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sraphaz
+# 👋 Hi, I'm Rapha
 
 **Technology • Consciousness • Living Systems**
 
