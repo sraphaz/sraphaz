@@ -1,8 +1,23 @@
 <div align="center">
 
-# 👋 Hi, call me Rapha
+<p align="center">
+  <b>बुद्धिर्बलं यशो धैर्यं निर्भयत्वमरोगता ।<br>
+  अजाड्यं वाक्पटुत्वं च हनुमत्स्मरणाद्भवेत् ॥</b>
+</p>
 
-**Technology • Consciousness • Living Systems**
+<p align="center">
+  <i>buddhir balaṃ yaśo dhairyaṃ nirbhayatvam arogatā |<br>
+  ajāḍyaṃ vākpaṭutvaṃ ca hanumat-smaraṇād bhavet ||</i>
+</p>
+
+<p align="center">
+  Wisdom • Strength • Fame • Courage • Fearlessness • Health • Freedom from Laziness • Eloquence<br>
+  <sub>— Blessings from remembering Lord Hanuman</sub>
+</p>
+
+---
+
+**Rapha** · Technology • Consciousness • Living Systems
 
 ![Systems](https://img.shields.io/badge/Systems-Thinking-0d1117?style=flat-square)
 ![Digital Sovereignty](https://img.shields.io/badge/Digital-Sovereignty-6e5494?style=flat-square)
