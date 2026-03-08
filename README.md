@@ -17,37 +17,11 @@
 
 ---
 
-<font color="#b1bac4">
+<div align="center">
 
-### 💡 About Me
+![Profile — About, Tech &amp; Practice, Focus Areas](https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/profile-content.svg)
 
-- 🌿 Exploring the intersection between **technology, consciousness and existential sovereignty**
-- ⚙️ **Solutions architecture** & software engineering
-- 🧭 **Digital sovereignty** & resilient systems
-- 🌱 Focus: mind–life integration, nature and living systems
-
----
-
-### 🛠️ Tech & Practice
-
-| Area | Focus |
-|------|--------|
-| **Architecture** | Systems design, resilient & sovereign systems |
-| **Engineering** | Software solutions, consulting |
-| **Consciousness** | Integration, life systems, individual conversations |
-
----
-
-### 🏆 Focus Areas
-
-#### ⚙️ Solutions & Engineering
-> _Architecture and software engineering for meaningful digital systems._
-
-#### 🧭 Digital Sovereignty
-> _Resilient systems, sovereignty and sustainable tech._
-
-#### 🌿 Consciousness & Integration
-> _Conversations and practice around mind, life and integration._
+</div>
 
 ---
 
@@ -85,8 +59,6 @@
 
 <div align="center">
 
-<font color="#8b949e">**© Sraphaz · Technology, Consciousness & Living Systems**</font>
+**© Sraphaz · Technology, Consciousness & Living Systems**
 
 </div>
-
-</font>
