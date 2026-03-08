@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Wisdom • Strength • Fame • Courage • Fearlessness • Health • Freedom from Laziness • Eloquence<br>
+  Wisdom • Strength • Recognition • Courage • Fearlessness • Health • Freedom from Laziness • Eloquence<br>
   <sub>— Blessings from remembering Lord Hanuman</sub>
 </p>
 
