@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="700" viewBox="0 0 720 700">
-  <rect width="720" height="700" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 720 720">
+  <rect width="720" height="720" fill="#0d1117"/>
   <rect x="0" y="0" width="4" height="200" fill="#d4af37" opacity="0.6"/>
   <text x="72" y="36" font-family="sans-serif" font-size="12" font-weight="600" fill="#8b949e" letter-spacing="0.15em">ABOUT ME</text>
   <text x="72" y="62" font-family="sans-serif" font-size="15" fill="#b1bac4">Exploring the intersection between technology, consciousness and</text>
@@ -20,19 +20,19 @@
   <text x="456" y="278" font-family="sans-serif" font-size="13" fill="#b1bac4">Integration, life systems,</text>
   <text x="456" y="298" font-family="sans-serif" font-size="13" fill="#b1bac4">conversations</text>
   <line x1="72" y1="318" x2="648" y2="318" stroke="#30363d" stroke-width="1"/>
-  <rect x="0" y="328" width="4" height="364" fill="#15803d" opacity="0.4"/>
+  <rect x="0" y="328" width="4" height="392" fill="#15803d" opacity="0.4"/>
   <text x="72" y="356" font-family="sans-serif" font-size="12" font-weight="600" fill="#8b949e" letter-spacing="0.15em">FOCUS AREAS</text>
-  <rect x="72" y="372" width="576" height="100" fill="#161b22" rx="6" stroke="#30363d" stroke-width="0.5"/>
-  <rect x="72" y="372" width="3" height="100" fill="#22c55e" rx="1"/>
-  <text x="88" y="404" font-family="sans-serif" font-size="14" font-style="italic" fill="#b1bac4">Architecture and software engineering for meaningful digital</text>
-  <text x="88" y="428" font-family="sans-serif" font-size="14" font-style="italic" fill="#b1bac4">systems.</text>
-  <text x="640" y="458" text-anchor="end" font-family="sans-serif" font-size="11" fill="#8b949e">Solutions and Engineering</text>
-  <rect x="72" y="484" width="576" height="100" fill="#161b22" rx="6" stroke="#30363d" stroke-width="0.5"/>
-  <rect x="72" y="484" width="3" height="100" fill="#15803d" rx="1"/>
-  <text x="88" y="516" font-family="sans-serif" font-size="14" font-style="italic" fill="#b1bac4">Resilient systems, sovereignty and sustainable tech.</text>
-  <text x="640" y="546" text-anchor="end" font-family="sans-serif" font-size="11" fill="#8b949e">Digital Sovereignty</text>
-  <rect x="72" y="596" width="576" height="100" fill="#161b22" rx="6" stroke="#30363d" stroke-width="0.5"/>
-  <rect x="72" y="596" width="3" height="100" fill="#4ade80" rx="1"/>
-  <text x="88" y="628" font-family="sans-serif" font-size="14" font-style="italic" fill="#b1bac4">Conversations and practice around mind, life and integration.</text>
-  <text x="640" y="658" text-anchor="end" font-family="sans-serif" font-size="11" fill="#8b949e">Consciousness and Integration</text>
+  <rect x="72" y="372" width="576" height="106" fill="#161b22" rx="6" stroke="#30363d" stroke-width="0.5"/>
+  <rect x="72" y="372" width="3" height="106" fill="#22c55e" rx="1"/>
+  <text x="88" y="406" font-family="sans-serif" font-size="16" font-style="italic" fill="#b1bac4">Architecture and software engineering for meaningful digital</text>
+  <text x="88" y="434" font-family="sans-serif" font-size="16" font-style="italic" fill="#b1bac4">systems.</text>
+  <text x="640" y="464" text-anchor="end" font-family="sans-serif" font-size="11" fill="#8b949e">Solutions and Engineering</text>
+  <rect x="72" y="490" width="576" height="106" fill="#161b22" rx="6" stroke="#30363d" stroke-width="0.5"/>
+  <rect x="72" y="490" width="3" height="106" fill="#15803d" rx="1"/>
+  <text x="88" y="524" font-family="sans-serif" font-size="16" font-style="italic" fill="#b1bac4">Resilient systems, sovereignty and sustainable tech.</text>
+  <text x="640" y="554" text-anchor="end" font-family="sans-serif" font-size="11" fill="#8b949e">Digital Sovereignty</text>
+  <rect x="72" y="608" width="576" height="106" fill="#161b22" rx="6" stroke="#30363d" stroke-width="0.5"/>
+  <rect x="72" y="608" width="3" height="106" fill="#4ade80" rx="1"/>
+  <text x="88" y="642" font-family="sans-serif" font-size="16" font-style="italic" fill="#b1bac4">Conversations and practice around mind, life and integration.</text>
+  <text x="640" y="672" text-anchor="end" font-family="sans-serif" font-size="11" fill="#8b949e">Consciousness and Integration</text>
 </svg>
