@@ -14,23 +14,19 @@
     </linearGradient>
   </defs>
   <rect width="1150" height="320" rx="14" fill="url(#bg-b)"/>
-  <!-- Subtle topographic / contour layer (premium) -->
+  <!-- Subtle topographic layer: below text band to avoid overlap -->
   <g stroke="#94A3B8" stroke-width="0.5" fill="none" opacity="0.05">
-    <path d="M 0 72 Q 288 52 575 68 T 1150 62"/>
-    <path d="M 0 112 Q 288 92 575 108 T 1150 102"/>
-    <path d="M 0 152 Q 288 132 575 148 T 1150 142"/>
-    <path d="M 0 192 Q 288 172 575 188 T 1150 182"/>
-    <path d="M 0 232 Q 288 212 575 228 T 1150 222"/>
-    <path d="M 0 272 Q 288 252 575 268 T 1150 262"/>
+    <path d="M 0 200 Q 288 180 575 196 T 1150 190"/>
+    <path d="M 0 235 Q 288 215 575 231 T 1150 225"/>
+    <path d="M 0 270 Q 288 250 575 266 T 1150 260"/>
   </g>
-  <!-- Faint vertical flow -->
+  <!-- Faint vertical flow: margins only, no overlap with text -->
   <g stroke="#94A3B8" stroke-width="0.35" fill="none" opacity="0.03">
-    <path d="M 288 0 C 288 90 282 160 272 320"/>
-    <path d="M 575 0 C 575 90 568 160 575 320"/>
-    <path d="M 863 0 C 863 90 868 160 858 320"/>
+    <path d="M 200 0 L 200 320"/>
+    <path d="M 950 0 L 950 320"/>
   </g>
   <!-- Top axis -->
-  <text x="575" y="50" text-anchor="middle" fill="#F0F4F8" font-size="25" font-family="Inter, system-ui, -apple-system, sans-serif" font-weight="600" letter-spacing="0.04em">Solutions Architecture • AI • Digital Sovereignty</text>
+  <text x="575" y="50" text-anchor="middle" fill="#F0F4F8" font-size="22" font-family="Inter, system-ui, -apple-system, sans-serif" font-weight="600" letter-spacing="0.03em">Solutions Architecture • AI • Consciousness • Digital Sovereignty</text>
   <!-- Conceptual line -->
   <text x="575" y="86" text-anchor="middle" fill="#8B9CB0" font-size="15" font-family="Inter, system-ui, sans-serif" font-weight="400" letter-spacing="0.02em">Designing resilient digital systems aligned with life</text>
   <!-- Divider -->
@@ -40,7 +36,7 @@
   <text x="288" y="188" text-anchor="middle" fill="#8B9CB0" font-size="13" font-family="Inter, system-ui, sans-serif" font-weight="400">Systems design for meaningful digital environments</text>
   <!-- Section: Intelligence -->
   <text x="575" y="162" text-anchor="middle" fill="#F0F4F8" font-size="18" font-family="Inter, system-ui, sans-serif" font-weight="600" letter-spacing="0.02em">Intelligence</text>
-  <text x="575" y="188" text-anchor="middle" fill="#8B9CB0" font-size="13" font-family="Inter, system-ui, sans-serif" font-weight="400">AI, software engineering and adaptive systems</text>
+  <text x="575" y="188" text-anchor="middle" fill="#8B9CB0" font-size="13" font-family="Inter, system-ui, sans-serif" font-weight="400">AI, consciousness, software engineering and adaptive systems</text>
   <!-- Section: Territory -->
   <text x="863" y="162" text-anchor="middle" fill="#F0F4F8" font-size="18" font-family="Inter, system-ui, sans-serif" font-weight="600" letter-spacing="0.02em">Territory</text>
   <text x="863" y="188" text-anchor="middle" fill="#8B9CB0" font-size="13" font-family="Inter, system-ui, sans-serif" font-weight="400">
