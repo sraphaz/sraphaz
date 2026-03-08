@@ -30,4 +30,4 @@ Exploring the intersection between **technology, consciousness and existencial s
 
 ### Connect
 
-Medium • LinkedIn • Instagram
+Medium • LinkedIn 
