@@ -5,8 +5,8 @@
 ---
 
 <p align="center">
-  <span style="display: inline-block; background-color: #1c2128; color: #e6edf3; padding: 10px 24px; border-radius: 12px; font-weight: 600; letter-spacing: 0.02em; border: 1px solid #30363d;">
-    <span style="color: #d4af37;">Rapha</span> · Technology · Consciousness · Living Systems
+  <span style="display: inline-block; background-color: #21262d; color: #f0f6fc; font-size: 1.12em; font-weight: 600; letter-spacing: 0.04em; padding: 12px 28px; border-radius: 14px; border: 1px solid #3d444d;">
+    <span style="color: #e0b848;">Rapha</span> · Technology · Consciousness · Living Systems
   </span>
 </p>
 
