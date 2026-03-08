@@ -1,16 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="660" viewBox="0 0 720 660">
   <rect width="720" height="660" fill="#0d1117"/>
-  <rect x="0" y="0" width="4" height="168" fill="#d4af37" opacity="0.6"/>
+  <rect x="0" y="0" width="4" height="158" fill="#d4af37" opacity="0.6"/>
   <text x="72" y="30" font-family="sans-serif" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="0.12em">ABOUT ME</text>
-  <text x="72" y="48" font-family="sans-serif" font-size="12" fill="#b1bac4">Exploring the intersection between technology, consciousness and</text>
-  <text x="72" y="66" font-family="sans-serif" font-size="12" fill="#b1bac4">existential sovereignty.</text>
-  <text x="72" y="88" font-family="sans-serif" font-size="11" fill="#8b949e">Solutions architecture and software engineering—designing systems that</text>
-  <text x="72" y="106" font-family="sans-serif" font-size="11" fill="#8b949e">are resilient and aligned with life. Digital sovereignty and resilient</text>
-  <text x="72" y="124" font-family="sans-serif" font-size="11" fill="#8b949e">systems sit at the centre of the practice; the thread is clarity and</text>
-  <text x="72" y="142" font-family="sans-serif" font-size="11" fill="#8b949e">presence in how we build and advise. Focus on mind-life integration,</text>
-  <text x="72" y="160" font-family="sans-serif" font-size="11" fill="#8b949e">nature and living systems—where technical depth meets integration.</text>
-  <line x1="72" y1="176" x2="648" y2="176" stroke="#30363d" stroke-width="1"/>
-  <rect x="0" y="186" width="4" height="132" fill="#22c55e" opacity="0.5"/>
+  <text x="72" y="48" font-family="sans-serif" font-size="12" fill="#b1bac4">Exploring the intersection between technology, consciousness and existential sovereignty.</text>
+  <text x="72" y="68" font-family="sans-serif" font-size="11" fill="#8b949e">Solutions architecture and software engineering—designing systems that are</text>
+  <text x="72" y="86" font-family="sans-serif" font-size="11" fill="#8b949e">resilient and aligned with life. Digital sovereignty and resilient systems</text>
+  <text x="72" y="104" font-family="sans-serif" font-size="11" fill="#8b949e">sit at the centre of the practice; the thread is clarity and presence in</text>
+  <text x="72" y="122" font-family="sans-serif" font-size="11" fill="#8b949e">how we build and advise. Focus on mind-life integration, nature and</text>
+  <text x="72" y="140" font-family="sans-serif" font-size="11" fill="#8b949e">living systems—where technical depth meets integration.</text>
+  <line x1="72" y1="156" x2="648" y2="156" stroke="#30363d" stroke-width="1"/>
+  <rect x="0" y="166" width="4" height="132" fill="#22c55e" opacity="0.5"/>
   <text x="72" y="208" font-family="sans-serif" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="0.12em">TECH AND PRACTICE</text>
   <text x="72" y="234" font-family="sans-serif" font-size="13" fill="#22c55e" font-weight="600">Architecture</text>
   <text x="72" y="252" font-family="sans-serif" font-size="12" fill="#b1bac4">Systems design, resilient and</text>
