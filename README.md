@@ -2,7 +2,7 @@
 
 ![Hanuman blessing](https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/hanuman-verse.svg?v=4)
 
-[![Spotify — Hanuman Chalisa (Víctor Sakshin)](https://img.shields.io/badge/Spotify-Hanuman_Chalisa-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/track/3bzvm9mTDrTNBtqtVn6Uaq?si=52942938add84fbb)
+[![Bandcamp — Hanuman Chalisa (Víctor Sakshin)](https://img.shields.io/badge/Bandcamp-Hanuman_Chalisa-1DA0C3?style=for-the-badge&logo=bandcamp&logoColor=white)](https://victorsakshin.bandcamp.com/track/hanuman-chalisa)
 
 ---
 
