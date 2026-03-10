@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="42" viewBox="0 0 400 42" role="img" aria-label="Hanuman Chalisa by Víctor Sakshin on Bandcamp  click to play">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3d3d3d"/>
+      <stop offset="100%" style="stop-color:#2a2a2a"/>
+    </linearGradient>
+  </defs>
+  <!-- Bar background (Bandcamp-style #333) -->
+  <rect width="400" height="42" fill="url(#bg)" rx="4"/>
+  <!-- Play button -->
+  <g transform="translate(12, 9)">
+    <circle cx="12" cy="12" r="11" fill="#1DA0C3" opacity="0.95"/>
+    <path d="M9 7 L9 17 L18 12 Z" fill="#fff"/>
+  </g>
+  <!-- Track title -->
+  <text x="52" y="26" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#e0e0e0">Hanuman Chalisa  Víctor Sakshin</text>
+  <!-- Bandcamp hint -->
+  <text x="380" y="26" font-family="system-ui, sans-serif" font-size="10" fill="#2ebd35">Bandcamp</text>
+</svg>
