@@ -4,6 +4,8 @@
 
 [![Hanuman Chalisa — play on Bandcamp](https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/bandcamp-hanuman-chalisa.svg)](https://victorsakshin.bandcamp.com/track/hanuman-chalisa)
 
+**Sacred Chants** — [sraphaz/SacredChants](https://github.com/sraphaz/SacredChants) (single repo)
+
 ---
 
 ![Profile banner — systems, territory, sovereignty](https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/profile-banner.svg)
