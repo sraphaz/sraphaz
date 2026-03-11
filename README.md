@@ -2,7 +2,7 @@
 
 ![Hanuman blessing](https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/hanuman-verse.svg?v=4)
 
-[![Hanuman Chalisa — play on Bandcamp](profile/bandcamp-hanuman-chalisa.svg)](https://victorsakshin.bandcamp.com/track/hanuman-chalisa)
+[![Hanuman Chalisa — play on Bandcamp](https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/bandcamp-hanuman-chalisa.svg)](https://victorsakshin.bandcamp.com/track/hanuman-chalisa)
 
 <sub><em>▶ Click to play</em></sub>
 
