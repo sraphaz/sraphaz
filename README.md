@@ -2,9 +2,17 @@
 
 ![Hanuman blessing](https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/hanuman-verse.svg?v=4)
 
-[![Hanuman Chalisa — play on Bandcamp](https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/bandcamp-hanuman-chalisa.svg)](https://victorsakshin.bandcamp.com/track/hanuman-chalisa)
+</div>
 
-**Sacred Chants** — [sraphaz/SacredChants](https://github.com/sraphaz/SacredChants) (single repo)
+<p align="right">
+  <a href="https://victorsakshin.bandcamp.com/track/hanuman-chalisa" title="Play Hanuman Chalisa on Bandcamp">
+    <img src="https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/bandcamp-hanuman-chalisa.svg" alt="Hanuman Chalisa — हनुमान चालीसा by Víctor Sakshin · Play on Bandcamp" width="400" height="42"/>
+  </a>
+  <br/>
+  <sub><em>▶ Click to play</em></sub>
+</p>
+
+<div align="center">
 
 ---
 
