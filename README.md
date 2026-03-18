@@ -8,6 +8,8 @@
 
 ![Profile banner — systems, territory, sovereignty](https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/profile-banner.svg)
 
+![LikeC4 Enterprise AI](./profile/likec4-enterprise-ai-ribbon.svg)
+
 ![Solutions Archtect](https://img.shields.io/badge/Solutions_Archtect-0ea5e9?style=flat-square)
 &nbsp;
 ![Digital & Existential Sovereignty](https://img.shields.io/badge/Digital_%26_Existential_Sovereignty-6e5494?style=flat-square)

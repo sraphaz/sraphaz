@@ -1,0 +1,40 @@
+<svg width="1600" height="240" viewBox="0 0 1600 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">LikeC4 minimal enterprise AI ribbon</title>
+  <desc id="desc">A minimal README ribbon showing LikeC4 as the semantic architecture layer for AI on top of LeanIX and Draw.io.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#030406"/>
+      <stop offset="0.62" stop-color="#05090D"/>
+      <stop offset="1" stop-color="#071117"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#111820" stroke-opacity="0.56"/>
+    </pattern>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(760 116) rotate(90) scale(120 520)">
+      <stop stop-color="#10C7EC" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#10C7EC" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1600" height="240" rx="20" fill="url(#bg)"/>
+  <rect width="1600" height="240" rx="20" fill="url(#grid)"/>
+  <rect width="1600" height="240" rx="20" fill="url(#glow)"/>
+
+  <g transform="translate(40 58)">
+    <rect x="0" y="0" width="14" height="14" fill="#87B8D6"/>
+    <rect x="0" y="18" width="14" height="14" fill="#87B8D6"/>
+    <rect x="18" y="18" width="14" height="14" fill="#87B8D6"/>
+    <rect x="18" y="36" width="14" height="14" fill="#87B8D6"/>
+    <text x="48" y="34" fill="#F7F8FA" font-family="'Satoshi','Segoe UI',Arial,sans-serif" font-size="30" font-weight="900">LIKEC4</text>
+  </g>
+
+  <rect x="280" y="52" width="310" height="32" rx="16" fill="#09131A" stroke="#15414E"/>
+  <circle cx="302" cy="68" r="4" fill="#10C7EC"/>
+  <text x="316" y="74" fill="#10C7EC" font-family="'Satoshi','Segoe UI',Arial,sans-serif" font-size="13" font-weight="800">CONTRIBUTION · ENTERPRISE AI</text>
+
+  <text x="40" y="148" fill="#F7F8FA" font-family="'Satoshi','Segoe UI',Arial,sans-serif" font-size="28" font-weight="900">Use AI to inspect architecture inventory with LikeC4 on top of LeanIX</text>
+  <text x="40" y="194" fill="#C9D3E0" font-family="'Satoshi','Segoe UI',Arial,sans-serif" font-size="17" font-weight="500">Semantic architecture for Draw.io collaboration, LeanIX context, and AI-ready analysis.</text>
+
+  <rect x="1328" y="52" width="232" height="32" rx="16" fill="#0A1218" stroke="#1B2B35"/>
+  <text x="1444" y="73" fill="#9FDFFF" font-family="'Satoshi','Segoe UI',Arial,sans-serif" font-size="13" font-weight="800" text-anchor="middle">Draw.io → LikeC4 → LeanIX</text>
+</svg>
