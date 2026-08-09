@@ -1,0 +1,129 @@
+<svg width="1150" height="760" viewBox="0 0 1150 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Authorial portfolio — 12 initiatives across territory, solution building, autonomous consulting, applied AI and consciousness">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1150" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#060C12"/>
+      <stop offset="0.52" stop-color="#081018"/>
+      <stop offset="1" stop-color="#0D1319"/>
+    </linearGradient>
+    <linearGradient id="hair" x1="70" y1="0" x2="1080" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#94A3B8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#C2A85A" stop-opacity="0.48"/>
+      <stop offset="1" stop-color="#94A3B8" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <style>
+      .title { font-family: Inter, system-ui, -apple-system, sans-serif; }
+      .sans { font-family: Inter, system-ui, sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1150" height="760" rx="18" fill="url(#bg)"/>
+
+  <g stroke="#94A3B8" stroke-width="0.45" opacity="0.035">
+    <path d="M80 0V760M160 0V760M240 0V760M320 0V760M400 0V760M480 0V760M560 0V760M640 0V760M720 0V760M800 0V760M880 0V760M960 0V760M1040 0V760"/>
+    <path d="M0 80H1150M0 160H1150M0 240H1150M0 320H1150M0 400H1150M0 480H1150M0 560H1150M0 640H1150M0 720H1150"/>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0.05s" fill="freeze"/>
+    <text x="72" y="72" fill="#E7ECEF" font-size="38" class="title" font-weight="650" letter-spacing="0.01em">Authorial Portfolio</text>
+    <text x="72" y="108" fill="#8BA38B" font-size="19" class="sans" font-weight="450">12 initiatives · 5 domains · one coherent practice</text>
+    <text x="1078" y="72" text-anchor="end" fill="#C2A85A" font-size="14" class="sans" font-weight="600" letter-spacing="0.12em">TECHNOLOGY · CONSCIOUSNESS · LIVING SYSTEMS</text>
+    <line x1="72" y1="138" x2="1078" y2="138" stroke="url(#hair)"/>
+  </g>
+
+  <g opacity="0" transform="translate(0 8)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.18s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur="0.5s" begin="0.18s" fill="freeze"/>
+    <text x="575" y="184" text-anchor="middle" fill="#B9C4CC" font-size="17" class="sans" font-weight="400">Systems, tools and experiences built to increase clarity, coordination, autonomy and transformation.</text>
+  </g>
+
+  <g stroke="#C2A85A" stroke-opacity="0.16" stroke-width="1" fill="none">
+    <path d="M575 228 C430 250 300 280 208 324" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="0.65s" begin="0.45s" fill="freeze"/></path>
+    <path d="M575 228 C520 270 470 292 424 324" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="0.65s" begin="0.52s" fill="freeze"/></path>
+    <path d="M575 228 C575 272 575 292 575 324" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="0.65s" begin="0.59s" fill="freeze"/></path>
+    <path d="M575 228 C630 270 682 292 726 324" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="0.65s" begin="0.66s" fill="freeze"/></path>
+    <path d="M575 228 C720 250 850 280 945 324" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="0.65s" begin="0.73s" fill="freeze"/></path>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.35s" fill="freeze"/>
+    <circle cx="575" cy="228" r="5" fill="#C2A85A" opacity="0.9"/>
+    <circle cx="575" cy="228" r="18" fill="#C2A85A" opacity="0.05" filter="url(#soft)"><animate attributeName="r" values="10;18;14;18" dur="2.4s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.03;0.08;0.03" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g opacity="0" transform="translate(0 18)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0.82s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 18" to="0 0" dur="0.55s" begin="0.82s" fill="freeze"/>
+    <rect x="60" y="300" width="280" height="340" rx="14" fill="#0A1219" stroke="#6B8B6B" stroke-opacity="0.5"/>
+    <circle cx="98" cy="342" r="17" fill="#6B8B6B" fill-opacity="0.12" stroke="#6B8B6B"/>
+    <path d="M98 330C91 337 89 344 98 354C107 344 105 337 98 330Z" stroke="#8BA38B" stroke-width="1.6" fill="none"/>
+    <path d="M98 336V350" stroke="#8BA38B" stroke-width="1.4"/>
+    <text x="128" y="338" fill="#8BA38B" font-size="20" class="sans" font-weight="600">Territory &amp; Commons</text>
+    <text x="128" y="362" fill="#607060" font-size="13" class="sans">place, ecology, community</text>
+    <line x1="84" y1="386" x2="316" y2="386" stroke="#6B8B6B" stroke-opacity="0.26"/>
+    <text x="88" y="426" fill="#DCE3E8" font-size="18" class="sans" font-weight="600">ARAH</text><text x="88" y="449" fill="#94A3B8" font-size="14" class="sans">territory-first community platform</text>
+    <text x="88" y="500" fill="#DCE3E8" font-size="18" class="sans" font-weight="600">Água Livre</text><text x="88" y="523" fill="#94A3B8" font-size="14" class="sans">citizen water dossier</text>
+    <text x="88" y="574" fill="#DCE3E8" font-size="18" class="sans" font-weight="600">Soundscape</text><text x="88" y="597" fill="#94A3B8" font-size="14" class="sans">collaborative territorial bioacoustics</text>
+  </g>
+
+  <g opacity="0" transform="translate(0 18)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0.95s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 18" to="0 0" dur="0.55s" begin="0.95s" fill="freeze"/>
+    <rect x="355" y="300" width="280" height="340" rx="14" fill="#0A1219" stroke="#6C8297" stroke-opacity="0.52"/>
+    <circle cx="393" cy="342" r="17" fill="#6C8297" fill-opacity="0.12" stroke="#6C8297"/>
+    <path d="M386 343L391 348L401 336" stroke="#8FA7BC" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M393 328L406 334V343C406 352 400 358 393 362C386 358 380 352 380 343V334L393 328Z" stroke="#8FA7BC" stroke-width="1.4" fill="none"/>
+    <text x="423" y="338" fill="#8FA7BC" font-size="20" class="sans" font-weight="600">Solution Building</text><text x="423" y="362" fill="#66798A" font-size="13" class="sans">governance, foundations, tooling</text>
+    <line x1="379" y1="386" x2="611" y2="386" stroke="#6C8297" stroke-opacity="0.26"/>
+    <text x="383" y="426" fill="#DCE3E8" font-size="18" class="sans" font-weight="600">ARAH Harness</text><text x="383" y="449" fill="#94A3B8" font-size="14" class="sans">engineering governance &amp; delivery</text>
+    <text x="383" y="500" fill="#DCE3E8" font-size="18" class="sans" font-weight="600">Sky Forge</text><text x="383" y="523" fill="#94A3B8" font-size="14" class="sans">foundations for building solutions</text>
+    <text x="383" y="574" fill="#DCE3E8" font-size="18" class="sans" font-weight="600">MermaidEyes</text><text x="383" y="597" fill="#94A3B8" font-size="14" class="sans">visual tooling for Mermaid diagrams</text>
+  </g>
+
+  <g opacity="0" transform="translate(0 18)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="1.08s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 18" to="0 0" dur="0.55s" begin="1.08s" fill="freeze"/>
+    <rect x="650" y="300" width="220" height="160" rx="14" fill="#0A1219" stroke="#C2A85A" stroke-opacity="0.52"/>
+    <circle cx="688" cy="342" r="17" fill="#C2A85A" fill-opacity="0.10" stroke="#C2A85A"/>
+    <path d="M678 347H698M681 347V353M695 347V353M682 341L688 335L694 341" stroke="#CDBA75" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    <path d="M676 335C682 327 694 327 700 335" stroke="#CDBA75" stroke-width="1.4" fill="none"/>
+    <text x="718" y="338" fill="#CDBA75" font-size="20" class="sans" font-weight="600">Surya Labs</text><text x="718" y="362" fill="#857649" font-size="13" class="sans">autonomous consulting + AI</text>
+    <line x1="674" y1="386" x2="846" y2="386" stroke="#C2A85A" stroke-opacity="0.28"/>
+    <text x="678" y="421" fill="#DCE3E8" font-size="16" class="sans" font-weight="600">Professional autonomy</text><text x="678" y="443" fill="#94A3B8" font-size="13" class="sans">fairer value distribution</text>
+  </g>
+
+  <g opacity="0" transform="translate(0 18)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="1.18s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 18" to="0 0" dur="0.55s" begin="1.18s" fill="freeze"/>
+    <rect x="650" y="480" width="220" height="160" rx="14" fill="#0A1219" stroke="#6D9790" stroke-opacity="0.52"/>
+    <circle cx="688" cy="522" r="17" fill="#6D9790" fill-opacity="0.10" stroke="#6D9790"/>
+    <path d="M680 522H696M688 514V530M683 517C677 510 674 527 683 527M693 517C699 510 702 527 693 527" stroke="#82AAA4" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+    <text x="718" y="518" fill="#82AAA4" font-size="20" class="sans" font-weight="600">Applied AI</text><text x="718" y="542" fill="#64807B" font-size="13" class="sans">decision &amp; specialized work</text>
+    <line x1="674" y1="566" x2="846" y2="566" stroke="#6D9790" stroke-opacity="0.28"/>
+    <text x="678" y="601" fill="#DCE3E8" font-size="16" class="sans" font-weight="600">Hawk · IAUTO</text><text x="678" y="623" fill="#94A3B8" font-size="13" class="sans">investment · legal practice</text>
+  </g>
+
+  <g opacity="0" transform="translate(0 18)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="1.28s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 18" to="0 0" dur="0.55s" begin="1.28s" fill="freeze"/>
+    <rect x="885" y="300" width="195" height="340" rx="14" fill="#0A1219" stroke="#8C7384" stroke-opacity="0.52"/>
+    <circle cx="923" cy="342" r="17" fill="#8C7384" fill-opacity="0.10" stroke="#8C7384"/>
+    <path d="M923 352C914 347 912 338 917 331C920 337 923 341 923 352ZM923 352C932 347 934 338 929 331C926 337 923 341 923 352Z" stroke="#A68A9C" stroke-width="1.3" fill="none"/>
+    <text x="953" y="338" fill="#A68A9C" font-size="19" class="sans" font-weight="600">Consciousness</text><text x="953" y="362" fill="#766271" font-size="12.5" class="sans">presence, ritual, devotion</text>
+    <line x1="909" y1="386" x2="1056" y2="386" stroke="#8C7384" stroke-opacity="0.28"/>
+    <text x="913" y="426" fill="#DCE3E8" font-size="18" class="sans" font-weight="600">Darshan</text><text x="913" y="446" fill="#94A3B8" font-size="13.5" class="sans"><tspan x="913" dy="0">minimal oracle of the</tspan><tspan x="913" dy="16">present</tspan></text>
+    <text x="913" y="500" fill="#DCE3E8" font-size="18" class="sans" font-weight="600">Aadi Yogi</text><text x="913" y="520" fill="#94A3B8" font-size="13.5" class="sans"><tspan x="913" dy="0">contemplative</tspan><tspan x="913" dy="16">presence</tspan></text>
+    <text x="913" y="574" fill="#DCE3E8" font-size="18" class="sans" font-weight="600">Sacred Chants</text><text x="913" y="594" fill="#94A3B8" font-size="13.5" class="sans"><tspan x="913" dy="0">devotional sound</tspan><tspan x="913" dy="16">experience</tspan></text>
+  </g>
+
+  <g opacity="0" transform="translate(0 10)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="1.45s" fill="freeze"/>
+    <line x1="72" y1="686" x2="1078" y2="686" stroke="url(#hair)" opacity="0.8"/>
+    <text x="72" y="722" fill="#5A6A5A" font-size="14" class="sans" font-weight="450" letter-spacing="0.06em">AUTHORSHIP · AUTONOMY · SYSTEMS THINKING · TERRITORY · PRESENCE</text>
+    <text x="1078" y="722" text-anchor="end" fill="#64727D" font-size="14" class="sans" font-weight="400">github.com/sraphaz</text>
+  </g>
+</svg>
