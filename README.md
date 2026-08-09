@@ -8,7 +8,7 @@
 
 ![Profile banner — systems, territory, sovereignty](https://raw.githubusercontent.com/sraphaz/sraphaz/main/profile/profile-banner.svg)
 
-![LikeC4 Enterprise AI](./profile/likec4-enterprise-ai-ribbon.svg)
+![Authorial Portfolio — 12 initiatives across five domains](./profile/authorial-portfolio.svg)
 
 ![Solutions Archtect](https://img.shields.io/badge/Solutions_Archtect-0ea5e9?style=flat-square)
 &nbsp;
