@@ -90,9 +90,10 @@
     <circle cx="688" cy="342" r="17" fill="#C2A85A" fill-opacity="0.10" stroke="#C2A85A"/>
     <path d="M678 347H698M681 347V353M695 347V353M682 341L688 335L694 341" stroke="#CDBA75" stroke-width="1.5" fill="none" stroke-linecap="round"/>
     <path d="M676 335C682 327 694 327 700 335" stroke="#CDBA75" stroke-width="1.4" fill="none"/>
-    <text x="718" y="338" fill="#CDBA75" font-size="20" class="sans" font-weight="600">Surya Labs</text><text x="718" y="362" fill="#857649" font-size="13" class="sans">autonomous consulting + AI</text>
-    <line x1="674" y1="386" x2="846" y2="386" stroke="#C2A85A" stroke-opacity="0.28"/>
-    <text x="678" y="421" fill="#DCE3E8" font-size="16" class="sans" font-weight="600">Professional autonomy</text><text x="678" y="443" fill="#94A3B8" font-size="13" class="sans">fairer value distribution</text>
+    <text x="718" y="338" fill="#CDBA75" font-size="20" class="sans" font-weight="600">Surya Labs</text>
+    <text x="718" y="359" fill="#857649" font-size="12" class="sans"><tspan x="718" dy="0">autonomous consulting</tspan><tspan x="718" dy="15">+ AI</tspan></text>
+    <line x1="674" y1="392" x2="846" y2="392" stroke="#C2A85A" stroke-opacity="0.28"/>
+    <text x="678" y="423" fill="#DCE3E8" font-size="15.5" class="sans" font-weight="600">Professional autonomy</text><text x="678" y="445" fill="#94A3B8" font-size="12.5" class="sans">fairer value distribution</text>
   </g>
 
   <g opacity="0" transform="translate(0 18)">
@@ -110,10 +111,11 @@
     <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="1.28s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="0 18" to="0 0" dur="0.55s" begin="1.28s" fill="freeze"/>
     <rect x="885" y="300" width="195" height="340" rx="14" fill="#0A1219" stroke="#8C7384" stroke-opacity="0.52"/>
-    <circle cx="923" cy="342" r="17" fill="#8C7384" fill-opacity="0.10" stroke="#8C7384"/>
-    <path d="M923 352C914 347 912 338 917 331C920 337 923 341 923 352ZM923 352C932 347 934 338 929 331C926 337 923 341 923 352Z" stroke="#A68A9C" stroke-width="1.3" fill="none"/>
-    <text x="953" y="338" fill="#A68A9C" font-size="19" class="sans" font-weight="600">Consciousness</text><text x="953" y="362" fill="#766271" font-size="12.5" class="sans">presence, ritual, devotion</text>
-    <line x1="909" y1="386" x2="1056" y2="386" stroke="#8C7384" stroke-opacity="0.28"/>
+    <circle cx="921" cy="342" r="17" fill="#8C7384" fill-opacity="0.10" stroke="#8C7384"/>
+    <path d="M921 352C912 347 910 338 915 331C918 337 921 341 921 352ZM921 352C930 347 932 338 927 331C924 337 921 341 921 352Z" stroke="#A68A9C" stroke-width="1.3" fill="none"/>
+    <text x="947" y="338" fill="#A68A9C" font-size="16.5" class="sans" font-weight="600">Consciousness</text>
+    <text x="947" y="359" fill="#766271" font-size="11.5" class="sans"><tspan x="947" dy="0">presence, ritual,</tspan><tspan x="947" dy="14">devotion</tspan></text>
+    <line x1="909" y1="390" x2="1056" y2="390" stroke="#8C7384" stroke-opacity="0.28"/>
     <text x="913" y="426" fill="#DCE3E8" font-size="18" class="sans" font-weight="600">Darshan</text><text x="913" y="446" fill="#94A3B8" font-size="13.5" class="sans"><tspan x="913" dy="0">minimal oracle of the</tspan><tspan x="913" dy="16">present</tspan></text>
     <text x="913" y="500" fill="#DCE3E8" font-size="18" class="sans" font-weight="600">Aadi Yogi</text><text x="913" y="520" fill="#94A3B8" font-size="13.5" class="sans"><tspan x="913" dy="0">contemplative</tspan><tspan x="913" dy="16">presence</tspan></text>
     <text x="913" y="574" fill="#DCE3E8" font-size="18" class="sans" font-weight="600">Sacred Chants</text><text x="913" y="594" fill="#94A3B8" font-size="13.5" class="sans"><tspan x="913" dy="0">devotional sound</tspan><tspan x="913" dy="16">experience</tspan></text>
